@@ -1,0 +1,16 @@
+id,expect,must_contain,must_not_contain
+Q1,answer,25000000,
+Q2,answer,60days|5000000,24hours
+Q3,answer,5000000,
+Q4,answer,120000,
+Q5,answer,6month,
+Q6,answer,42500,
+Q7,answer,65,
+Q8,answer,7500,
+Q9,answer,6month|accident,
+Q10,answer,8extended|85,
+Q11,answer,claimform|medicalreport|payslip|iddocument,24hours
+Q12,answer,6months,
+Q13,decline,,
+Q14,decline,,
+Q15,answer,10workingdays,24hours
